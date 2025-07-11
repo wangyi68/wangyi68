@@ -1,6 +1,6 @@
 ![Preview](./images/castorice3.jpg)
 
-<a href="https://discord.gg/w7DzsYpt89"><img align="right" width="425" src="https://lanyard.cnrad.dev/api/738748102311280681?&bg=0d1117&animated=false&hideDiscrim=true&borderRadius=5px&idleMessage=Probably%20doing%20something%20else..."></a>
+<a href="https://discord.gg/w7DzsYpt89"><img align="right" width="425" src="https://lanyard.cnrad.dev/api/1391995229241868459?&bg=0d1117&animated=false&hideDiscrim=true&borderRadius=5px&idleMessage=Probably%20doing%20something%20else..."></a>
 
 
 ### Hi!👋 I'm Mizu🍙
