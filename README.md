@@ -61,7 +61,7 @@
 <h2 align="center">🟢 Discord 状态 | Live Discord Status</h2>
 <p align="center">
   <a href="https://discord.com/users/1391995229241868459" target="_blank">
-    <img src="https://lanyard-profile-readme.vercel.app/api/1391995229241868459?theme=dark&bg=3a5d69&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=我真的很爱你。" width="70%" style="border: 2px solid #7289DA; border-radius: 12px;" />
+    <img src="https://lanyard.cnrad.dev/api/1391995229241868459?hideBadges=true&bg=1e1e2f&animated=true&hideDiscrim=true&borderRadius=12px&idleMessage=正在发呆..." width="70%" style="border: 2px solid #7289DA; border-radius: 12px;" />
   </a>
 </p>
 
