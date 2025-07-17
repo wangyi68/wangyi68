@@ -62,7 +62,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/1391995229241868459" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/1391995229241868459?theme=dark&bg=1e1e2f&animated=true&hideDiscrim=true&borderRadius=12px&idleMessage=Idling..." width="500" />
+    <img src="https://lanyard.cnrad.dev/api/1391995229241868459?theme=dark&bg=1e1e2f&animated=true&hideDiscrim=true&borderRadius=12px&idleMessage=正在发呆...." width="500" />
   </a>
 </p>
 
