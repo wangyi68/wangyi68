@@ -61,7 +61,8 @@
 <h2 align="center">🟢 Discord 状态 | Live Discord Status</h2>
 <p align="center">
   <a href="https://discord.com/users/1391995229241868459" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/1391995229241868459?bg=1e1e2f&animated=true&hideDiscrim=true&borderRadius=12px&idleMessage=Currently%20chilling..." width="70%" style="border: 2px solid #7289DA; border-radius: 12px;" />
+    <img src="[https://lanyard.cnrad.dev/api/1391995229241868459?bg=1e1e2f&animated=true&hideDiscrim=true&borderRadius=12px&idleMessage=Currently%20chilling...](https://lanyard.cnrad.dev/api/1391995229241868459?bg=0d1117&animated=true&hideDiscrim=true&borderRadius=12px&idleMessage=Probably%20doing%20something%20cool...
+)" width="70%" style="border: 2px solid #7289DA; border-radius: 12px;" />
   </a>
 </p>
 
