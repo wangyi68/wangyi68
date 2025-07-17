@@ -59,11 +59,13 @@
 
 <!-- Live Discord Status -->
 <h2 align="center">🟢 Discord 状态 | Live Discord Status</h2>
+
 <p align="center">
   <a href="https://discord.com/users/1391995229241868459" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/1391995229241868459?hideBadges=true&bg=1e1e2f&animated=true&hideDiscrim=true&borderRadius=12px&idleMessage=正在发呆..." width="70%" style="border: 2px solid #7289DA; border-radius: 12px;" />
+    <img src="https://lanyard.cnrad.dev/api/1391995229241868459?hideBadges=true&bg=1e1e2f&animated=true&hideDiscrim=true&borderRadius=12px&idleMessage=正在发呆..." width="500" />
   </a>
 </p>
+
 
 ---
 
